@@ -71,7 +71,6 @@ jobs:
         path: |
           /Users/runner/work/iBoot64Patcher/iBoot64Patcher/iBoot64Patcher-macOS-arm64-*-DEBUG.tar.xz
   Linux:
-    runs-on: ubuntu-latest
     runs-on: self-hosted
     steps:
       - name: Checkout
